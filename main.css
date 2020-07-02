@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(89, 95, 97);
   }
 
   header {
@@ -7,7 +7,7 @@ body {
   }
   
   h2 {
-    color: navy;
+    color: rgb(33, 33, 104);
     margin-left: 20px;
   }
 
